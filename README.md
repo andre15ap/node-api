@@ -1,8 +1,8 @@
 ## node-api ##
 
-#### Api desenvolvida em Nodejs ####
+#### Api desenvolvida em Nodejs e MongoDB ####
 
-CRUD completo de produtos
+CRUD completo de produtos, utilizando Banco de Dados não-relacional Mongo.
 
 Instalar dependencias do node_modules:
 
