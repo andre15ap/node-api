@@ -14,4 +14,5 @@ Rodar aplicação:
 
 Rotas:
 `http://localhost:3000/api/product` GET, POST
+
 `http://localhost:3000/api/product/id-do-produto` GET, PUT, DELETE
